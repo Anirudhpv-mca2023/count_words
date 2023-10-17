@@ -1,7 +1,16 @@
 # count_words
+
 **Description :**
-The word count is a program to check the most repeated words in a paragraph and to the display most commonly repeated three words in console
-**Steps to Run the Project :**
-Press Ctrl + Shift + I (or) right click the mouse and click inspect to open console
-**Future Improvements :**
-This Project can be further enhanced by checking most repeated alphabetic or special symbols
+
+This HTML document displays the top 3 most frequently occurring words from a provided paragraph after removing punctuation and converting all text to lowercase.
+
+**How to run the code:**
+
+step1:Save the HTML file with .html extension.
+
+step2:Click the "Go Live" button.A new browser window will open, displaying top 3 words.
+
+**Future Enhancements:**
+
+Implementing user interactivity to allow dynamic paragraph input. Adding the ability to customize the number of top words displayed.
+
